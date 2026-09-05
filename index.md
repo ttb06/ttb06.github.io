@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master student at VinUniversity.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Data Mining:** Time Series, Recommendation System.
+- **Learning:** Generative, especially Diffusion Model; Continual Learning.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2026]** Our paper about time series is accepted to ICDM 2026.
 
 {% include_relative _includes/publications.md %}
 
