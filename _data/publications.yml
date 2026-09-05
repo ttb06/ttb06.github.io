@@ -5,9 +5,8 @@ main:
       conference: IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2026.
       pdf: https://arxiv.org/pdf/2608.17164
       code: https://github.com/ttb06/ScenarioDiff
-      # bibtex:
+      bibtex:
       image: ./assets/img/ScenarioDiff.png
-      # notes: Early Accept
 
     - title: "EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation"
       authors: <strong>Tuan-Binh Tran<\strong>, Thanh Tam Nguyen, Quoc Viet Hung Nguyen, Duy Dung Le, Tung Kieu, Thanh Trung Huynh*
@@ -15,7 +14,6 @@ main:
       conference: arxiv
       pdf: https://arxiv.org/pdf/2609.03522
       code: https://anonymous.4open.science/r/EPIC/
-      # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-      # bibtex:
+      bibtex:
       image: ./assets/img/EPIC.png
       notes: Preprint
