@@ -1,19 +1,21 @@
 main:
-    - title: "ScenarioDiff: A Scenario-level Guidance Framework for Multimodal Time Series Forecasting"
-      authors: <strong>Tuan-Binh Tran<\strong>, Dat Nguyen-Cong, Duc-Trong Le, Thanh Trung Huynh, Tung Kieu*
-      conference_short: ICDM
-      conference: IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2026.
-      pdf: https://arxiv.org/pdf/2608.17164
-      code: https://github.com/ttb06/ScenarioDiff
-      bibtex:
-      image: ./assets/img/ScenarioDiff.png
+    - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+      authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+      conference_short: MICCAI
+      conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+      pdf: https://arxiv.org/pdf/2306.00988.pdf
+      code: https://github.com/MrGiovanni/ContinualLearning
+      bibtex: https://bib.yliu.me/MICCAI23.txt
+      image: ./assets/img/teaser_example_2.png
+      notes: Early Accept
 
-    - title: "EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation"
-      authors: <strong>Tuan-Binh Tran<\strong>, Thanh Tam Nguyen, Quoc Viet Hung Nguyen, Duy Dung Le, Tung Kieu, Thanh Trung Huynh*
-      conference_short: arxiv
-      conference: arxiv
-      pdf: https://arxiv.org/pdf/2609.03522
-      code: https://anonymous.4open.science/r/EPIC/
-      bibtex:
-      image: ./assets/img/EPIC.png
-      notes: Preprint
+    - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+      authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+      conference_short: CVPR
+      conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+      pdf: https://arxiv.org/pdf/2002.10211.pdf
+      code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+      page: https://class-il.mpi-inf.mpg.de/mnemonics/
+      bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+      notes: Oral Presentation
+      image: ./assets/img/teaser_example.png
