@@ -10,7 +10,7 @@ main:
       notes: Poster Presentation
 
     - title: "EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation"
-      authors: <strong>Tuan-Binh Tran<\strong>, Thanh Tam Nguyen, Quoc Viet Hung Nguyen, Duy Dung Le, Tung Kieu, Thanh Trung Huynh
+      authors: <strong>Tuan-Binh Tran</strong>, Thanh Tam Nguyen, Quoc Viet Hung Nguyen, Duy Dung Le, Tung Kieu, Thanh Trung Huynh
       conference_short: arxiv
       conference: arxiv preprint
       pdf: https://arxiv.org/pdf/2609.03522
