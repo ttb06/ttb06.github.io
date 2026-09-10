@@ -4,9 +4,6 @@ layout: homepage
 
 ## About Me
 
-I am a Master student at VinUniversity, supervised by [Dr. Huynh Thanh Trung](https://thanhtrunghuynh93.github.io/) and [Dr. Tung Kieu](https://tungk.github.io/pages/publication/).
-About Me
-
 I am a master’s student at VinUniversity, supervised by [Dr. Huynh Thanh Trung](https://thanhtrunghuynh93.github.io/) and [Dr. Tung Kieu](https://tungk.github.io/pages/publication/). Previously, I interned with the FPT AI Residency program at FPT Software under Dr. Tung’s supervision and worked as a research assistant at VNU University of Engineering and Technology (VNU-UET), working with [Dr. Duc-Trong Le](https://uet.vnu.edu.vn/~trongld/).
 
 I am exploring a range of research topics as I develop my long-term research focus. My current interests include:
