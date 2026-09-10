@@ -16,7 +16,7 @@ Outside of research, I enjoy playing badminton 🏸, working out at the gym 💪
 ## News
 
 - **[Sep. 2026]** I began my Master's studies at VinUniversity under the supervision of Dr. Huynh Thanh Trung.
-- **[Aug. 2026]** Our paper on time series is accepted to ICDM 2026!
+- **[Aug. 2026]** Our paper on time series is accepted to ICDM 2026 (CORE A*)!
 
 {% include_relative _includes/publications.md %}
 
