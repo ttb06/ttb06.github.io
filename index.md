@@ -15,11 +15,11 @@ Outside of research, I enjoy playing badminton 🏸, working out at the gym 💪
 
 ## Education
 
-- **M.S. in Computer Science**, VinUniversity, 2026–Present  
-  Advisors: Dr. Huynh Thanh Trung and Dr. Tung Kieu
+- **M.S. in Computer Science**, VinUniversity, 2026-Present
+  Advisors: Dr. Huynh Thanh Trung
 
-- **B.S. in Information Technology**, VNU University of Engineering and Technology (VNU-UET), 2022–2026  
-  GPA: 3.93/4.00 - Graduated as **Valedictorian of the program**
+- **B.S. in Information Technology**, VNU University of Engineering and Technology (VNU-UET), 2022-2026  
+  GPA: 3.93/4.00 - Graduated as **Valedictorian** of the program
 
 ## News
 
