@@ -13,11 +13,20 @@ I am exploring a range of research topics as I develop my long-term research foc
 
 Outside of research, I enjoy playing badminton 🏸, working out at the gym 💪🏻, and singing 🎤.
 
+## Education
+
+- **M.S. in Computer Science**, VinUniversity, 2026–Present  
+  Advisors: Dr. Huynh Thanh Trung and Dr. Tung Kieu
+
+- **B.S. in Information Technology**, VNU University of Engineering and Technology (VNU-UET), 2022–2026  
+  GPA: 3.93/4.00 - Graduated as **Valedictorian of the program**
+
 ## News
 
 - **[Sep. 2026]** I began my Master's studies at VinUniversity under the supervision of Dr. Huynh Thanh Trung.
 - **[Aug. 2026]** Our paper on time series is accepted to ICDM 2026 (CORE A*)!
-
+- **[Jun. 2026]** I graduated as the valedictorian of my program at VNU University of Engineering and Technology (VNU-UET).
+  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
