@@ -24,7 +24,7 @@ Outside of research, I enjoy playing badminton 🏸, working out at the gym 💪
 ## News
 
 - **[Sep. 2026]** I began my Master's studies at VinUniversity under the supervision of Dr. Huynh Thanh Trung.
-- **[Aug. 2026]** Our paper on time series is accepted to ICDM 2026 (CORE A*)!
+- **[Aug. 2026]** Our paper on multimodal time series [(**ScenarioDiff**)](https://arxiv.org/abs/2608.17164) is accepted to ICDM 2026 (CORE A*)!
 - **[Jun. 2026]** I graduated as the valedictorian of my program at VNU University of Engineering and Technology (VNU-UET).
   
 {% include_relative _includes/publications.md %}
