@@ -7,14 +7,31 @@ main:
       code: https://github.com/ttb06/ScenarioDiff
       bibtex: https://arxiv.org/abs/2608.17164
       image: ./assets/img/ScenarioDiff.png
+      image_alt: ScenarioDiff framework overview
       notes: Poster Presentation
 
     - title: "EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation"
       authors: <strong>Tuan-Binh Tran</strong>, Thanh Tam Nguyen, Quoc Viet Hung Nguyen, Duy Dung Le, Tung Kieu, Thanh Trung Huynh
-      conference_short: arxiv
-      conference: arxiv preprint
+      conference_short: WSDM
+      conference: ACM International Conference on Web Search and Data Mining <strong>(WSDM)</strong>, 2027 Main Track.
       pdf: https://arxiv.org/pdf/2609.03522
       code: https://anonymous.4open.science/r/EPIC/
-      bibtex: https://arxiv.org/abs/2600.03522
+      bibtex: https://arxiv.org/abs/2609.03522
       image: ./assets/img/EPIC.png
-      notes: Preprint
+      image_alt: EPIC framework overview
+      notes: Main Track
+
+    - title: "DynGRAFT: Dynamic Graph-Routed Adaptive Factors for Synthetic Tabular Data Generation"
+      authors: <strong>Tuan-Binh Tran</strong>, Thanh Tam Nguyen, Quoc Viet Hung Nguyen, Tung Kieu, Thanh Trung Huynh
+      conference_short: ICDE
+      conference: Manuscript submitted to the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2027.
+      image_alt: DynGRAFT image coming soon
+      notes: Submitted
+
+    - title: "Agreement-Aware Preference Curation with Weak Annotator Ensembles"
+      authors: The-Anh Nguyen<sup>*</sup>, Trong-Nghia Luu<sup>*</sup>, <strong>Tuan-Binh Tran<sup>*</sup></strong>, Phi Le Nguyen, Quoc Viet Hung Nguyen, Thanh Trung Huynh
+      conference_short: NAACL
+      conference: Manuscript under review at the Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2027.
+      image_alt: Agreement-Aware Preference Curation image coming soon
+      notes: Under Review
+      others: <br><small><sup>*</sup> Equal contribution.</small>

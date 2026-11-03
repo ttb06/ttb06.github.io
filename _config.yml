@@ -1,14 +1,27 @@
 # Basic Information
 title: Tuan-Binh Tran
-position: Master Student
+seo_title: "Tuan-Binh Tran (Trần Tuấn Bình) | Machine Learning Researcher"
+lang: en
+url: https://ttb06.github.io
+baseurl: ""
+position: "Master's Student"
 affiliation: Center for AI Research, VinUniversity
+affiliation_link: https://cair.vinuni.edu.vn/
 email: binh.tt2@vinuni.edu.vn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Tran Tuan Binh
-description:
-canonical:
+keywords: "Tuan-Binh Tran, Tuan Binh Tran, Tran Tuan Binh, Trần Tuấn Bình, thủ khoa UET, machine learning researcher"
+description: "Tuan-Binh Tran (Trần Tuấn Bình) is a machine learning researcher and master's student at VinUniversity, and the 2026 Information Technology valedictorian at VNU-UET."
+canonical: https://ttb06.github.io/
+alternate_names:
+    - Trần Tuấn Bình
+    - Tran Tuan Binh
+    - Tuan Binh Tran
+same_as:
+    - https://scholar.google.com/citations?hl=vi&user=lteBdDcAAAAJ
+    - https://github.com/ttb06
+    - https://www.linkedin.com/in/tu%E1%BA%A5n-b%C3%ACnh-tr%E1%BA%A7n-168627249/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.

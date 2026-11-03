@@ -4,6 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://cikm2026.diag.uniroma1.it/"><autocolor>ACM International Conference on Information and Knowledge Management (CIKM) 2026 (Subreviewer)</autocolor></a></li>
+  <li><a href="https://ieeeicassp.org/"><autocolor>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2027</autocolor></a></li>
 </ul>
 
 <!-- 
