@@ -24,7 +24,7 @@ main:
     - title: "DyGRAFT: Dynamic Graph-Routed Adaptive Factors for Tabular Synthesis"
       authors: <strong>Tuan-Binh Tran</strong>, Thanh Tam Nguyen, Quoc Viet Hung Nguyen, Tung Kieu, Thanh Trung Huynh
       conference_short: ICDE
-      conference: Manuscript under review to the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2027.
+      conference: Manuscript under review at the IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2027.
       image: ./assets/img/publication/DyGRAFT.png
       image_alt: DyGRAFT framework overview
       notes: Under Review
